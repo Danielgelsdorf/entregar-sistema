@@ -1,0 +1,15 @@
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\bin\Debug\net6.0\entregar.exe
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\bin\Debug\net6.0\entregar.deps.json
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\bin\Debug\net6.0\entregar.runtimeconfig.json
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\bin\Debug\net6.0\entregar.dll
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\bin\Debug\net6.0\entregar.pdb
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\obj\Debug\net6.0\entregar.csproj.AssemblyReference.cache
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\obj\Debug\net6.0\entregar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\obj\Debug\net6.0\entregar.AssemblyInfoInputs.cache
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\obj\Debug\net6.0\entregar.AssemblyInfo.cs
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\obj\Debug\net6.0\entregar.csproj.CoreCompileInputs.cache
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\obj\Debug\net6.0\entregar.dll
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\obj\Debug\net6.0\refint\entregar.dll
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\obj\Debug\net6.0\entregar.pdb
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\obj\Debug\net6.0\entregar.genruntimeconfig.cache
+C:\Users\gelsd\Documents\Códigos\ProjetosDotNet\novoProjeto\entregar\obj\Debug\net6.0\ref\entregar.dll
