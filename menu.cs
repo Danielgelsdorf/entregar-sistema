@@ -12,6 +12,8 @@ public System.Collections.Generic.List<Cadastro>   cadastrar(){
     Produto.quantidade=Console.ReadLine();
     Console.WriteLine("digite o presso de compra do produto");
     Produto.precoCompra=Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("digite onde vai está o produto");
+    Produto.local=Console.ReadLine();
     Console.WriteLine("digite quantos % deseja ganhar na venda.");
     Produto.porcentagemGanho=Convert.ToInt32(Console.ReadLine());
     Produto.precoFinal=((Produto.precoCompra/100)*Produto.porcentagemGanho)+Produto.precoCompra;
@@ -41,6 +43,7 @@ cadastro.precoFinal=Math.Round(cadastro.precoFinal,2);
 Console.WriteLine("quantidade do produto: "+cadastro.quantidade);
 Console.WriteLine("presso de compra: R$"+cadastro.precoCompra);
 Console.WriteLine("preço de venda: R$"+cadastro.precoFinal);
+Console.WriteLine("local do produto"+cadastro.local);
 if (lista[i].status==true){
     Console.WriteLine("produto disponível");
 }
@@ -60,8 +63,13 @@ public System.Collections.Generic.List<Cadastro> auterar(List<Cadastro> lista){
         i=i+1;
     }
     Console.WriteLine("digite o número do produto");
-    int j;
+    int j,k;
     j=Convert.ToInt32(Console.ReadLine());
+    k=lista.Count();
+    if (j>=k){
+        Console.WriteLine("produto não disponível para alterar");
+    }
+    else{
     if(lista[j].status==true){
         lista[j].status=false;
         Console.WriteLine(lista[j].categoria+"agora não disponível");
@@ -71,6 +79,7 @@ public System.Collections.Generic.List<Cadastro> auterar(List<Cadastro> lista){
         lista[j].status=true;
         Console.WriteLine(lista[j].categoria+$", agora disponível");
         return lista;
+    }
     }
     return lista;
 }

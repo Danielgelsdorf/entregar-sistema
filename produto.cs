@@ -4,6 +4,7 @@ public class Cadastro
     public string scategoria{get; set;}
     public bool status{get; set;}
     public string quantidade{get; set;}
+    public string local{get;set;}
     public double precoCompra{get; set;}
     public double precoFinal{get; set;}
     public int porcentagemGanho{get; set;}
